@@ -6,8 +6,7 @@ namespace Principal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Projeto Principal" +
-                "");
+            Console.WriteLine("Projeto Principal");
         }
     }
 }
