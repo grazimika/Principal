@@ -51,35 +51,87 @@ namespace Ex1
             int codigo = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite a quantidade: ");
             quantidade = int.Parse(Console.ReadLine());
-            if (codigo = 1)
+
+            swicth(codigo)
+                {
+                case 1
+                    preco =16:
+                break;
+                case 2:
+                    preco = 25;
+                break;
+                case 3:
+                    preco = 20;
+                break;
+                case 4:
+                    preco = 6.5;
+                break;
+                case 5:
+                    preco = 8;
+                break;
+                }
+                valor = preco * quantidade;
+
+                Console.WriteLine("O valor da conta é R${0}", valor);
+        }public void ex4()
+        {
+            Console.WriteLine("2.2");
+            double a,b.c,x1,x2,delta,raiz;
+
+            Console.WriteLine("Digite o numero : ");
+            double a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o numero : ");
+            double b = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o numero : ");
+            double c = double.Parse(Console.ReadLine());
+
+            delta=(b*b)-(4*a*c);
+            if(delta>0 && a=0)
+                Console.WriteLine("A equação não possui raízes");
+            else
+                double raiz = Math.Sqrt(delta)
+                x1=((-b)+raiz)/(2*a);
+                x2=((-b)-raiz)/(2*a);
+            Console.WriteLine("Valor de x1:{0} e valor de x2:{1}",x1,x2)
+        }public void ex5()
+        {
+            Console.WriteLine("Exercicio 3.1")
+            string senha;
+            Console.WriteLine("Digite a senha: ");
+            string senha = string.Parse(Console.ReadLine());
+
+            while (senha != "cotil")
             {
-                preco = 16;
-            }else
-            if(codigo = 2)
-            {
-                preco = 25;
-            }else
-            if(codigo = 3)
-            {
-                preco = 20;
-            }else
-            if(codigo = 4)
-            {
-                preco = 6.5;
-            }else
-            if(codigo = 5)
-            {
-                preco = 8;
+                Console.WriteLine("Senha incorreta");
             }
-            valor = preco * quantidade;
+            Console.WriteLine("Acesso permitido");
+               
+        }public void ex6()
+        {
+            Console.WriteLine("Exercicio 3.2")
+            int N,X;
 
-            Console.WriteLine("O valor da conta é R${0}", valor);
+            Console.WriteLine("Digite um numero: ");
+            int N= int.Parse(Console.ReadLine());
 
-
-
+            for(N=0;N<N;N++)
+                int X=int.Parse(Console.ReadLe());
+            break;
+            if(X<=10)
+                for(int Y =0; Y<N;Y++)
+                    int Z++;
+                    Console.WriteLine("{0}in",z);
+            else
+                int m++;
+                     Console.WriteLine("{0}out",m);
         }
 
-        
-    
+
+      
+ 
+          
+
+
     }
 }
+
