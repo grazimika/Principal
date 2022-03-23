@@ -115,7 +115,7 @@ namespace Ex1
             int N= int.Parse(Console.ReadLine());
 
             for(N=0;N<N;N++)
-                int X=int.Parse(Console.ReadLe());
+                int X=int.Parse(Console.ReadLine());
             break;
             if(X<=10)
                 for(int Y =0; Y<N;Y++)
@@ -124,7 +124,61 @@ namespace Ex1
             else
                 int m++;
                      Console.WriteLine("{0}out",m);
+        }public void ex7()
+        {
+            Console.WriteLine("Exercicios de Estrutura sequencial");
+            Console.WriteLine("Exercicio 1")
+            int a,b,soma;
+            int a=int.Parse(Console.ReadLine());
+            int b=int.Parse(Console.ReadLine());
+            soma=a+b;
+            Console.WriteLine("Soma={0}",soma);
+            Console.WriteLine("Exercicio 2 igual da Prova de logica de programação");
         }
+        public void ex8()
+        {
+            Console.WriteLine("Exercicio 3");
+            int a,b,c,d,diferenca;
+            int a=int.Parse(Console.ReadLine());
+            int b=int.Parse(Console.ReadLine());
+            int c=int.Parse(Console.ReadLine());
+            int d=int.Parse(Console.ReadLine());
+
+            diferenca = (a*b)-(c*d);
+            Console.WriteLine("Diferença={0}",diferenca);
+
+        }public void ex9()
+        {
+            int numero,hrs;
+            float vlrH,salario;
+
+            Console.WriteLine("Digite o número do funcionário: ");
+            int numero=int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o número de horas trabalhadas: ");
+            int hrs=int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o valor que recebe por hora: ");
+            int vlrH=float.Parse(Console.ReadLine());
+            salario=hrs*vlrH;   
+            Console.WriteLine("Número:{0} \n Salário: R${1}",numero,salario);
+            Console.WriteLine("Exercicio 5 igual ao da prova diagnostica");
+        }public void ex10()
+        {
+            double a,b,c,triangulo,circulo,trapezio,quadrado,retangulo;
+            Console.WriteLine("Digite três valores: ");
+            int a=int.Parse(Console.ReadLine());
+            int b=int.Parse(Console.ReadLine());
+            int c=int.Parse(Console.ReadLine());
+
+            triangulo=(a*c)/2;
+            circulo=(c*c)*3.14159;
+            trapezio=((a+b)*c)/2;
+            quadrado = b*b;
+            retangulo = a*b;
+
+            Console.WriteLine("Triangulo{0},circulo{1},trapezio{2},qudrado{3},retangulo{4}");
+
+        }
+
 
 
       

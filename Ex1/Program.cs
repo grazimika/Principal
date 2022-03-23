@@ -17,6 +17,10 @@ namespace Ex1
             Ex1.ex4();
             Ex1.ex5();
             Ex1.ex6();
+            Ex1.ex7();
+            Ex1.ex8();
+            Ex1.ex9();
+            Ex1.ex10();
         }
     }
 }
