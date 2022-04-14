@@ -1,0 +1,11 @@
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\bin\Debug\calculadoraMikaGrazi.exe.config
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\bin\Debug\calculadoraMikaGrazi.exe
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\bin\Debug\calculadoraMikaGrazi.pdb
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.csproj.AssemblyReference.cache
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.Form1.resources
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.Properties.Resources.resources
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.csproj.GenerateResource.cache
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.csproj.CoreCompileInputs.cache
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.exe
+C:\Users\MIKA YONEKAWA\Source\Repos\grazimika\Calculadora-DAD-2022\calculadoraMikaGrazi\obj\Debug\calculadoraMikaGrazi.pdb
